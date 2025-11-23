@@ -2,12 +2,12 @@
 
 Desenvolvedor web focado em construir aplicações modernas com **TypeScript**, **React**, **Next.js**, **Node.js** e todo o ecossistema em torno dessas tecnologias. Gosto de aprender criando projetos práticos e evoluindo meu código de forma consistente.
 
-## Stack Atual
+### Stack Atual
 
 - **Frontend:** TypeScript, React, Next.js, Tailwind
 - **Backend:** Express, Prisma, SQL, PostgreSQL (Docker), JWT, bcrypt, Zod
 
-## Como estudo
+### Como estudo
 
 Crio projetos pequenos, cada um focado em um único conceito.  
 Isso me ajuda a:
